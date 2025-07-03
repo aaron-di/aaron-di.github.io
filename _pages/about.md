@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Zixiang Di, currently studying large language model and black-box optimization at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
+Hello, I am Zixiang Di, currently pursuing a Master's degree in Computer Science at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor's degree in Computer Science from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-I'm interested in **LLM Post-training** & **Model Merging**, and currently seeking job opportunities related to large language models.
-Feel free to reach out via email at [dizixiang@163.com](mailto:dizixiang@163.com) if you have relevant opportunities or ideas to collaborate!
+My research interest includes **LLM Post-training**, **Model Merging** and **Black-box Optimization**. I have published 5 papers in top international AI conferences such as NeurIPS, ACL, and AAAI, including associated competitions, and have one paper conditionally accepted by a top-tier SCI Q1 journal.  
+
+I am currently seeking job opportunities related to large language models.
+
+Feel free to reach out via email at [dizixiang@163.com](mailto:dizixiang@163.com) or [aarondi1119@gmail.com](mailto:aarondi1119@gmail.com) if you have any relevant opportunities or ideas for collaboration!
 
 # 🔥 News
 - 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
