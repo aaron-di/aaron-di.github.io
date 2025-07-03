@@ -17,42 +17,122 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Zixiang Di, currently studying large language model and black-box optimization at <a href="https://www.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I received my bachelor’s degree in Computer Science from <a href="https://www.usst.edu.cn/">University of Shanghai for Science and Technology (USST)</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I'm interested in **LLM Post-training** & **Model Merging**, and currently seeking job opportunities related to large language models.
+Feel free to reach out via email at [dizixiang@163.com](mailto:dizixiang@163.com) if you have relevant opportunities or ideas to collaborate!
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2025.05: &nbsp;🎉🎉 Two papers accepted to ACL 2025 Main Conference!
+
+- 2025.05: &nbsp;🎉🎉 One paper accepted to ACL 2025 XLLM Workshop!
+
+- 2025.05: &nbsp;🎉🎉 Awarded 3rd place 🏆 in the XLLM@ACL2025 Shared Task-III: LLM for Structural Reasoning!
+
+- 2025.01: &nbsp;🎉🎉 Invited to give a talk at the University of Toronto on our method from the NeurIPS 2024 LLM Merging Competition!
+
+- 2024.12: &nbsp;🎉🎉 One paper accepted to ACL 2025!
+
+- 2024.12: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024 LMC!
+
+- 2024.12: &nbsp;🎉🎉 Awarded 3rd place 🏆 in the NeurIPS 2024 LLM Merging Competition!
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+| * indicates my Master’s advisor
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='./images/MM-MO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[It's Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/abs/2407.00487)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Bingdong Li*, **Zixiang Di**, Yanting Yang, Hong Qian, Peng Yang, Hao Hao, Ke Tang, Aimin Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Arxiv
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='./images/CDM-PSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models](https://arxiv.org/abs/2405.08674)
+
+Bingdong Li*, **Zixiang Di**, Yongfan Lu, Hong Qian, Feng Wang, Peng Yang, Ke Tang, Aimin Zhou
+
+AAAI 2025 | [Code](https://github.com/aaron-di/CDM-PSL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 LMC</div><img src='./images/LMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Model Merging with Strategic Model Selection, Merging, and Hyperparameter Optimization](https://openreview.net/forum?id=Xl8uuaNj1X)
+
+**Zixiang Di**, Yaoming Yang, Mei Jiang, Bingdong Li∗, Hong Qian, Aimin Zhou
+
+NeurIPS 2025 LMC
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/ReflectDiffu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework](https://arxiv.org/pdf/2409.10289)
+
+Jiahao Yuan, **Zixiang Di**, Zhiqing Cui, Guisong Yang, Usman Naseem
+
+ACL 2025 Main
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='./images/RoT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](https://arxiv.org/pdf/2410.12323)
+
+Jiahao Yuan, Dehui Du, Hao Zhang, **Zixiang Di**, Usman Naseem
+
+ACL 2025 Main | [Code](https://github.com/RoT-llm/Reversal-of-Thought)
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="text-align: center;">
+      <div class="badge">LLMSR@XLLM25</div>
+      <img src='images/less_is_more.png' alt="sym" style="display: inline-block; width: 40%;">
+    </div>
+  </div>
+
+<div class='paper-box-text' markdown="1">
+
+[LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://arxiv.org/abs/2504.16408)
+
+Jiahao Yuan, Xingzhe Sun, Xing Yu, Jingwen Wang, Dehui Du, Zhiqing Cui, **Zixiang Di**
+
+ACL 2025 XLLM Workshop | [Code](https://github.com/JhCircle/Less-is-More)
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* Shanghai AI Lab: LLM Practical Training Camp, **Outstanding Participant**
+- *2024.09* Huawei Cup: 6th China Postgraduate Artificial Intelligence Innovation Competition, **National Second Prize**
+- *2022.05* Lanqiao Cup: C/C++ Programming, Shanghai Region, **First Prize**
+- *2022.05* China Collegiate Programming Contest (CCPC): National Finals of Group Programming Ladder Tournament, **Second Prize**
+- *2022.03* National Collegiate Algorithm Design and Programming Challenge, **Silver Award**
+- *2021.12* TI Cup: National Undergraduate Electronic Design Contest, Shanghai Region, **Second Prize**
+- *2021.12* **Shanghai Government Scholarship**
+- *2021.12* Outstanding Student in USST
+- *2019 - 2023* **First-Class Scholarship** for Academic Excellence in USST
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2026.06*, Computer Science, East China Normal University. 
+- *2019.09 - 2023.06*, Computer Science, University of Shanghai for Science and Technology. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - Now*, [Ant Group](https://www.antgroup.com/), Research Intern – Key Technologies for Decision Optimization Assisted by Large Language Models.
